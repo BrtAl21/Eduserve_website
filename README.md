@@ -1,5 +1,5 @@
 
-![Uploading localhost_3000_ (1).png…]()
+![localhost_3000_ (1)](https://github.com/user-attachments/assets/3321a504-e4b6-4159-922b-554c038e9ee3)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
