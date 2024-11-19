@@ -1,7 +1,7 @@
 
-This i![screen-1](https://github.com/user-attachments/assets/77b8ca94-428f-41b8-aa39-55c8da2d8d6f)
+![Uploading localhost_3000_ (1).png…]()
 
-s a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
